@@ -1,4 +1,4 @@
-![Powered](https://forthebadge.com/images/badges/powered-by-black-magic.svg) ![Swag](https://forthebadge.com/images/badges/built-with-swag.svg) ![Spaget](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
+![Powered](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 <h1 align="center"> Hello There 👋 </h1>
 
 
@@ -95,7 +95,7 @@
 
 
  
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=DiptoChakrabarty&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![SoulessCookie GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoullessCookie&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## My Certifications :arrow_down:
 

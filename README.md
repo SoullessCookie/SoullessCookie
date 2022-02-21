@@ -1,4 +1,4 @@
-![Powered](https://forthebadge.com/images/badges/powered-by-black-magic.svg) ![FuckIt](https://forthebadge.com/images/badges/fuck-it-ship-it.svg) ![Spaget](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
+![Powered](https://forthebadge.com/images/badges/powered-by-black-magic.svg) ![Swag](https://forthebadge.com/images/badges/built-with-swag.svg) ![Spaget](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
 <h1 align="center"> Hello There 👋 </h1>
 
 

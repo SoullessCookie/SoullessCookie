@@ -1,15 +1,13 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
+* I am [WrigglySplash](https://www.linkedin.com/in/miles-pitulle/) :blush:	 . Currently I am a first year student at Wake Tech CC in IT with specialization in Network Security Architecture
 
-* I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT :sparkles:.
+* I am a JavaScript, C++, and HTML/CSS Developer for Team Deciduo :toolbox: and Lu-ai contributer :sparkles:.
 
-* I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
+* I have done multiple projects ranging from Devops, Cloud Computing, Automation, AI, Game hacking, and Game modding :file_cabinet: .
 
-* I am currently brushing up my skills and plan to learn Golang and Terraform .
-
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+* I am currently working on learning JSFuck, Java, and the C family
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
 

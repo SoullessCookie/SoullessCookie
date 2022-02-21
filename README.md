@@ -1,3 +1,5 @@
+https://forthebadge.com/images/badges/powered-by-black-magic.svg
+
 <h1 align="center"> Hello There 👋 </h1>
 
 
@@ -9,9 +11,9 @@
 
 * I am currently working on learning JSFuck, Java, and the C family
 
-* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/DiptoChakrabarty/DiptoChakrabarty/blob/master/Projects.md)
+* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SoullessCookie)
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/dipto-chakrabarty/) :sparkler:
+* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/miles-pitulle/) :sparkler:
 
 
 ## Tech Stack :computer:

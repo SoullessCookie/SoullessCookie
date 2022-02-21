@@ -1,4 +1,4 @@
-https://forthebadge.com/images/badges/powered-by-black-magic.svg
+[![Powered](https://forthebadge.com/images/badges/powered-by-black-magic.svg)]
 
 <h1 align="center"> Hello There 👋 </h1>
 

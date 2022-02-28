@@ -63,8 +63,9 @@
 
 ## My Certifications :arrow_down:
 
-- [Lenovo Certified Laptop Technitian](https://media-exp1.licdn.com/dms/image/C4D2DAQFmWJMLW78TaQ/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=VF9vSpwjLb26doBzifmN6QIZFVSEJAMvOWAiGh3Fzzo)
-- [Microsoft Certified Windows System Administrator](https://media-exp1.licdn.com/dms/image/C4D2DAQHoFhvsfOPa5g/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=EZa7le_vjNz5nGFIuOKmJk-WuGnPjOQpWz615lcUniM)
-- [LinkedIn Windows 11 Certified](https://media-exp1.licdn.com/dms/image/C4D2DAQGL_J8Rvg88cg/profile-treasury-image-shrink_480_480/0?e=1594677600&v=beta&t=ns1Pf3Eh9CDkLzcBDMz-LDWg9ArVMBOffdwSKhXzKzs) 
+- [Lenovo Certified Laptop Technitian]()
+- [Microsoft Certified Windows System Administrator]()
+- [LinkedIn Windows 11 Certified]() 
+
 
 :star: Readme credit to [DiptoChakrabarty](https://github.com/DiptoChakrabarty/)

@@ -12,7 +12,7 @@
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SoullessCookie)
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/miles-pitulle/) :sparkler:
+* Connect with me on LinkedIn :fireworks: [LinkedIn Profile](https://www.linkedin.com/in/miles-pitulle/) :sparkler:
 
 
 ## Tech Stack :computer:

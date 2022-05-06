@@ -2,7 +2,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [WrigglySplash](https://www.linkedin.com/in/miles-pitulle/) :blush:	 . Currently I am a first year student at Wake Tech CC in IT with specialization in Network Security Architecture
+* I am [WrigglySplash]() :blush:	 . Currently I am a first year student at Wake Tech CC in IT with specialization in Network Security Architecture
 
 * I am a JavaScript, C++, and HTML/CSS Developer for Team Deciduo :toolbox: and Lu-ai contributer :sparkles:.
 

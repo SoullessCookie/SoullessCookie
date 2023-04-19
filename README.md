@@ -68,7 +68,7 @@
 - [LinkedIn Windows 11 Certified]() 
 
 
-<img src="[imgur.com/a/Q5lp7bd](https://imgur.com/a/Q5lp7bd)">
+<img src="https://i.imgur.com/PeSi5tg.jpg">
 
 
 :star: Readme credit to [DiptoChakrabarty](https://github.com/DiptoChakrabarty/)

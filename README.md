@@ -66,7 +66,9 @@
 - [Lenovo Certified Laptop Technitian]()
 - [Microsoft Certified Windows System Administrator]()
 - [LinkedIn Windows 11 Certified]() 
-
+<br>
+<br>
+<br>
 
 <img src="https://i.imgur.com/PeSi5tg.jpg">
 

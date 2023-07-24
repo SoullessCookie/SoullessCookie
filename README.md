@@ -12,7 +12,7 @@
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SoullessCookie)
 
-* Connect with me on LinkedIn :fireworks: [LinkedIn Profile]() :sparkler:
+* Oh, you have a problem with me???? cope harder bozo
 
 
 ## Tech Stack :computer:

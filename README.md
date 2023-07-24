@@ -4,11 +4,11 @@
 
 * I am [WrigglySplash]() :blush:	 . Currently I am a third year student at Wake Tech CC in IT with specialization in Network Security Architecture
 
-* I am a JavaScript, C++, and HTML/CSS Developer for Team Deciduo :toolbox: and Lu-ai contributer :sparkles:.
+* I was a C++ Developer for Team Deciduo :toolbox: and Lu-ai (discontinued) contributer :sparkles:.
+
+* I am currently working with Java/Kotlin and Javascript.
 
 * I have done multiple projects ranging from Devops, Cloud Computing, Automation, AI, Game hacking, and Game modding :file_cabinet: .
-
-* I am currently working on learning JSFuck, Java, and the C family
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SoullessCookie)
 

@@ -12,7 +12,7 @@
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SoullessCookie)
 
-* Oh, you have a problem with me???? cope harder bozo
+* Oh, you have a problem with me???? Sounds like a you problem....
 
 
 ## Tech Stack :computer:

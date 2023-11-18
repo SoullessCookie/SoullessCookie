@@ -6,13 +6,13 @@
 
 * I was a C++ Developer for Team Deciduo :toolbox: and Lu-ai (discontinued) contributer :sparkles:.
 
-* I am currently working with Java/Kotlin and Javascript.
+* Founder of objectoriented.net.
+
+* I am currently working with Javascript and C++.
 
 * I have done multiple projects ranging from Devops, Cloud Computing, Automation, AI, Game hacking, and Game modding :file_cabinet: .
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/SoullessCookie)
-
-* Oh, you have a problem with me???? Sounds like a you problem....
 
 
 ## Tech Stack :computer:

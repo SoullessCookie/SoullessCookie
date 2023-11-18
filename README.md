@@ -4,7 +4,7 @@
 
 * I am [WrigglySplash](). Currently I am a third year student at Wake Tech CC in IT with specialization in Network Security Architecture
 
-* I was a C++ Developer for Team Deciduo :toolbox: and Lu-ai (discontinued) contributer :sparkles:.
+* I was a C++ Developer for Team Deciduo :toolbox: and Lu-ai contributer :sparkles:.
 
 * Founder of objectoriented.net.
 

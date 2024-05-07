@@ -2,11 +2,11 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [WrigglySplash](). Currently I am a third year student at Wake Tech CC in IT with specialization in Network Security Architecture
+* I am [WrigglySplash](). Currently I am a third year student at UNCW in Cybersecurity with specialization in Network Security Architecture
 
 * I was a C++ Developer for Team Deciduo :toolbox: and Lu-ai contributer :sparkles:.
 
-* Founder of objectoriented.net.
+* Founder of objectoriented.net (Temporarily under construction).
 
 * I am currently working with Javascript and C++.
 

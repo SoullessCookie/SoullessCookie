@@ -71,6 +71,3 @@
 <br>
 
 <img src="https://i.imgur.com/PeSi5tg.jpg">
-
-
-:star: Readme credit to [DiptoChakrabarty](https://github.com/DiptoChakrabarty/)
